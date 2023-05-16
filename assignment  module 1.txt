@@ -1,0 +1,55 @@
+Q.1) What is software? What is software engineering ?
+
+---  Software is a part of computer which can not be touched phisically, can only be seen.
+
+--- Software engineering is a technical leveled process of developing software.
+
+Q.2) Explain types of software.
+
+---  1) System software
+     2) Application software
+     3) Middleware
+     4) Programming software
+     5) Driver software
+
+Q.3) What is SDLC? Explain each phase of SDLC.
+
+---  SDLC is Software Development Life Cycle.
+
+---  SDLC has 6 phses
+
+     1 : Requirement Gethering:- To gather all requirement to build software or website
+     2 : Analysis:- Analysis of all the requiremnt
+     3 : Design:- Fronted Part - HTML,CSS,Js
+     4 : coding:- Backend part-python,java,c,c++,php,etc...
+     5 : testing-To test the whole website or software
+     6 : maintenance:- maintain the website or software
+
+Q.4) What is DFD? Create a DFD diagram on Flipkart.
+
+---  Data Flow Diagram defines the overall structure of a software or website.
+
+---  Customer ----------->  Website <------------- Admin
+              Login                     Update
+              <-----------          ------------->
+              confirmation           confirmation
+
+
+Q.5) What is Flow chart? Create a flowchart to make addition of two numbers.
+
+---  Flowchart describes the logic between the programming.
+
+---     start ----> input num1,num2 ----> sum = num1+num2 ----> print sum ----> End
+
+
+Q.6) What is Use case Diagram? Create a use-case on bill payment on paytm.
+
+--- Use Case Diagram is a digram of a user's possible interactions with a system.
+
+---        User
+            |
+    -------------------
+   |                   |
+make payment       transaction
+   |                   |
+    ---- Paytm --------
